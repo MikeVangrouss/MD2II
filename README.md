@@ -1,4 +1,4 @@
-# MD2II Hash Function
+# MD2II Hash Function based on MD2
 MD2II Hash function for creating encryption keys.
 
 MD2II was released in 2005. This is a one-way hash function based on MD2 by Ron Rivest with a variable-size hash. MD2II cannot be used as a general one-way hash function but only to hash passwords to create keys or subkeys for block cipher algorithms.
